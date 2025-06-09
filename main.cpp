@@ -1,1 +1,1 @@
-// Base ESP#@ project code
+// Base ESP32 project code
